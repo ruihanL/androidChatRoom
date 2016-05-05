@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">androidChatRoom</string>
+    <string name="hello_world">Welcome!</string>
+    <string name="action_settings">disconnect</string>
+    <string name="action_config">config</string>
+
+</resources>
